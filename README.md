@@ -3,6 +3,8 @@ This is a case study project for my internship. It includes Product dissection, 
 
 ![thumbnail](https://github.com/ANURUDRA-JENA/Travel-Hospitality-Analysis/blob/500549bb995682ff67ab594999afc9f9578fcfa9/Assets/CS%20D1.png)
 
+<a href = 'https://medium.com/@anurudra/case-studies-guesstimates-for-e-commerce-industries-3463527fcaa0'>Read this story here!</a>
+
 The Part I of document(.docx) provided above is the case study for an e-commerce platform in which the complete product has been dissected along with its
 features, impacts, realworld problems and how those problems were solved by the platform. A hypothetical database schema was also designed and 
 has been presented in the document as well which would have supported the operational growth of the respective e-commerce platform.
