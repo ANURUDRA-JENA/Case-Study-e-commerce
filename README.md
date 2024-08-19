@@ -28,6 +28,26 @@ the platform overcome those challenges and improve its revenue and profit growth
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'>eBay&rsquo;s innovative solutions transformed the e-commerce landscape, addressing key challenges and setting trends in online retailing.</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;font-size:11.0pt;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 
+
+<H2>Revenue & Profit Growth section: </H2>
+<p style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;"><strong><strong style="font-size: var(--cib-type-body1-stronger-font-size);">Problem Statement:</strong></strong></p>
+<ul style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;">
+    <li><strong>Stagnant Revenue Growth:</strong> The company faced challenges in increasing its revenue due to market saturation and intense competition.</li>
+    <li><strong>Profit Margin Pressure:</strong> Rising operational costs and pricing pressures were squeezing profit margins.</li>
+    <li><strong>Customer Retention Issues:</strong> Difficulty in retaining customers and increasing customer lifetime value.</li>
+    <li><strong>Limited Market Expansion:</strong> Challenges in expanding into new markets and segments.</li>
+    <li><strong>Innovation Stagnation:</strong> Lack of innovation in products and services, leading to reduced competitive advantage.</li>
+</ul>
+<p style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;"><strong><strong style="font-size: var(--cib-type-body1-stronger-font-size);">Results:</strong></strong></p>
+<ul style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;">
+    <li><strong>Diversified Revenue Streams:</strong> The company introduced new products and services, tapping into different market segments and increasing overall revenue.</li>
+    <li><strong>Cost Optimization:</strong> Implemented cost-saving measures and improved operational efficiencies to enhance profit margins.</li>
+    <li><strong>Enhanced Customer Retention:</strong> Developed loyalty programs and personalized marketing strategies to retain customers and boost their lifetime value.</li>
+    <li><strong>Market Expansion:</strong> Successfully entered new markets and segments, broadening the customer base and increasing market share.</li>
+    <li><strong>Innovation Initiatives:</strong> Invested in research and development, leading to innovative products and services that strengthened the company&rsquo;s competitive position.</li>
+</ul>
+<p style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;">These strategies collectively contributed to significant revenue and profit growth, positioning the company for long-term success. If you need more details or specific examples, feel free to ask!</p>
+
 In the Part II of the project, some pretty common interview guesstimates questions have been answered.
 
 Thanks for checking this out.
