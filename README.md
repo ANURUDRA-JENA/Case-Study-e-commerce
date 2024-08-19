@@ -46,7 +46,7 @@ the platform overcome those challenges and improve its revenue and profit growth
     <li><strong>Market Expansion:</strong> Successfully entered new markets and segments, broadening the customer base and increasing market share.</li>
     <li><strong>Innovation Initiatives:</strong> Invested in research and development, leading to innovative products and services that strengthened the company&rsquo;s competitive position.</li>
 </ul>
-<p style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;">These strategies collectively contributed to significant revenue and profit growth, positioning the company for long-term success. If you need more details or specific examples, feel free to ask!</p>
+<p style="text-align: left;color: rgb(210, 208, 206);background-color: rgb(43, 43, 43);font-size: 14px;">These strategies collectively can contributed to significant revenue and profit growth, positioning the company for long-term success. If you need more details or specific examples, feel free to ask!</p>
 
 In the Part II of the project, some pretty common interview guesstimates questions have been answered.
 
